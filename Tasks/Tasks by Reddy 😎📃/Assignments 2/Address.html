@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="./Structure.css">
+    <title>Shipping</title>
+</head>
+<body>
+    <h1 class="title">Shipping Address</h1>
+    
+    <hr>
+    
+    <form>
+        <article>
+
+            <label class="Phone">Phone Number <span style="color: brown;">*</span></label>
+                <input type="number" class="Phone1" required> <br>
+            <label class="Company">Company</label>
+                <input type="text" class="Company1"> <br>
+
+            <label class="Country">Country*</label>
+                <select class="Country1">
+                    <option value="India">India</option>
+                    <option value="Australia">Australia</option>
+                    <option value="USA">USA</option>
+                    <option value="Pakistan">Pakistan</option>
+                    <option value="West Indies">West Indies</option>
+                    <option value="China">China</option>
+                    <option value="Korea">Korea</option>
+                    <option value="Russia">Russia</option>
+                    <option value="Africa">Africa</option>
+                    <option value="Amazzzon">Amazzzon</option>
+                </select> <br>
+
+            <label class="Address">Address Finder</label>
+                <input type="address" class="Address1"> <br>
+
+           <label class="Street">Street Address*</label>
+                <input type="address" class="Street1" required> <br>
+                <input type="address" class="Street2"> <br>
+
+            <label class="Suburb">Suburb*</label>
+                <input type="text" class="Suburb1" required> <br>
+
+            <label class="Zip">Zip/Postal Code*</label>
+                <input type="text" class="Zip1">
+
+                
+        <aside>
+            <input type="checkbox" value="Save in Address Book">
+            <label class="address-book">Save in address book</label>
+        </aside>
+
+    <hr>
+
+        <div>
+            <input type="reset" class="Cancel" value="Cancel">
+            <input type="submit" class="submit" value="Save Address">
+        </div>
+            
+        </article>
+    </form>
+</body>
+</html>

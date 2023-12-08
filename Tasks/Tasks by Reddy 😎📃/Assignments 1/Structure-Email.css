@@ -1,0 +1,115 @@
+.fieldset{
+    width: 400px;
+    height: 305px;
+    border-radius: 0px;
+    border-color:rgb(241, 237, 233);
+}
+
+.title{
+    font-weight:bolder;
+    font-size: 20px;
+}
+
+.name{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13px;
+    font-weight: 700;
+    color: rgb(2, 60, 41) ;
+}
+
+.name1{
+    width: 120px;
+    margin-top: 5px;
+    border-radius: 0px;
+    border-color: rgb(226, 221, 221);
+}
+
+.email{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13px;
+    font-weight: 700;
+    color: rgb(2, 60, 41);
+    padding-left: 110px;
+}
+
+.email1{
+    width: 120px;
+    margin-left: 21px;
+    border-radius: 0px;
+    border-color: rgb(226, 221, 221);
+}
+
+.phone{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13px;
+    font-weight: 700;
+    color: rgb(2, 60, 41);
+    padding-left: 100px;
+}
+
+.phone1{
+    width: 120px;
+    margin-left: 21px;
+    border-radius: 0px;
+    border-color: rgb(226, 221, 221);
+}
+
+.subject{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13px;
+    font-weight: 700;
+    color: rgb(2, 60, 41);
+}
+
+.subject1{
+    width: 271px;
+    margin-top: 5px;
+    border-radius: 0px;
+    border-color: rgb(226, 221, 221);
+}
+
+.services{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13px;
+    font-weight: 700;
+    color: rgb(2, 60, 41);
+    padding-left: 237px;
+}
+
+.services-select{
+    width: 127px;
+    margin-left: 21px;
+    padding: 2px;
+    border-radius: 0px;
+    border-color: rgb(147, 144, 144);
+}
+
+.select-one{
+    text-align: center;
+    font-size: 0px;
+}
+
+.message{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13px;
+    font-weight: 700;
+    color: rgb(2, 60, 41);
+}
+
+.text-area{
+    width: 427px;
+    margin-top: 5px;
+    border-radius: 0px;
+    border-color: rgb(147, 144, 144);
+}
+
+.submit{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13px;
+    font-weight: 700;
+    color: white;
+    background-color: rgb(255, 128, 0);
+    margin-top: 10px;
+    border-radius: 0px;
+    border-color:rgb(255, 128, 0) ;
+}
