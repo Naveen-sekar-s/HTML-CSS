@@ -1,0 +1,9 @@
+--- HTML stands for Hyper text Markup Language 
+
+--- Standard markup language for creating a web pages 
+
+--- it is describes the structure of a web pages
+
+--- its consists of a series of elements 
+
+--- Elements tell the browser how to display the content 
