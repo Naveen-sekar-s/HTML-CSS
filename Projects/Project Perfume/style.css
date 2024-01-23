@@ -4,21 +4,40 @@
   box-sizing: border-box;
 }
 
-.navbar {
-  background-color: black;
-  color: aliceblue;
-}
-
-.logo {
-    font-size: 2.5rem;
-}
-
-ul li , a{
-  display: inline-block;
+a {
+  text-decoration: none;
   color: grey;
 }
 
-a{
-    text-decoration: none;
-    color: white;
+header,
+a:hover {
+  background-color: black;
+  color: bisque;
+}
+
+h1 {
+  display: inline-block;
+}
+.logo {
+  font-size: 3rem;
+  display: inline;
+  color: rgb(242, 239, 239);
+}
+
+nav,
+li {
+  display: inline-block;
+  margin: 5px;
+}
+
+nav {
+  margin-left: 19rem;
+  margin-bottom: 10px;
+}
+
+.search {
+  margin-left: 27%;
+  width: 20rem;
+  padding: 5px;
+  border-radius: 50px;
 }
