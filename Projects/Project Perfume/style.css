@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  background-color: black;
+  color: aliceblue;
+}
+
+.logo {
+    font-size: 2.5rem;
+}
+
+ul li , a{
+  display: inline-block;
+  color: grey;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
