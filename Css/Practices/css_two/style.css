@@ -1,0 +1,16 @@
+body {
+  background-image: url(./god-of-war-2018-2000-408387a68b78478aaa52d04b8a99c0a0.jpg);
+  background-position-x:center;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+}
+.background__text {
+  background-color: black;
+  color: white;
+  margin-bottom: 5000px;
+}
+.background__para {
+  background-color: black;
+  color: blueviolet;
+  opacity: 0.5;
+}
