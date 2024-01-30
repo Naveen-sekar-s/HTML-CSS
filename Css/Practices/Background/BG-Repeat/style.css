@@ -1,0 +1,36 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+div.BG__img-x {
+  background-image: url(../assests/download.jpg);
+  background-repeat: repeat-x;
+  height: 200px;
+}
+
+.x__axis {
+  background-color: black;
+  color: white;
+  padding: 1.5rem;
+  width: 420px;
+  margin-top: 50px;
+  margin-left: 550px;
+}
+
+.BG__img-y {
+  background-image: url(../assests/download.jpg);
+  background-repeat: repeat-y;
+  height: 237vh;
+  width: 250px;
+  display: inline-block;
+}
+
+div.y__axis {
+  background-color: black;
+  color: white;
+  padding: 1.5rem;
+  margin-left: 300px;
+  display: inline-block;
+}

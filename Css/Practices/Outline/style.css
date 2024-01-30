@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+  font-size: xx-large;
+}
+
+.outline__offset {
+  background-color: yellow;
+  border: 2px solid black;
+  outline: 2px solid red;
+  outline-offset: 10px;
+  width: 15%;
+  margin: 0 0 0 42.5%;
+}
+
+.outline {
+  background-color: yellow;
+  outline: 12px double red;
+  width: 15%;
+  margin: 0 0 0 42.5%;
+}

@@ -1,0 +1,16 @@
+table,th,td{
+    border: 2px solid;
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+}
+th{
+    height: 70px;
+    text-align: left;
+}
+
+td{
+    height: 50px;
+    vertical-align:bottom;
+}

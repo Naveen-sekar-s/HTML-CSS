@@ -1,0 +1,16 @@
+body {
+  background-image: url(../assests/GOW-BG-1.jpg);
+
+  /* img BG attachment fixed  */
+  background-attachment: fixed;
+
+  /* img BG attachment scroll */
+  /* background-attachment: scroll; */
+
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+div {
+  height: 300vh;
+}

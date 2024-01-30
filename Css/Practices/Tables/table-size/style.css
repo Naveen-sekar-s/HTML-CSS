@@ -1,0 +1,10 @@
+table,th,td{
+    border: 2px solid;
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+}
+th{
+    height: 70px;
+}

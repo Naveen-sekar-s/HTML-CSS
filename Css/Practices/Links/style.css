@@ -1,0 +1,48 @@
+section {
+  border: 2px solid red;
+  overflow: auto;
+  height: 17.8vh;
+  width: 36vw;
+  padding: 5%;
+  background-color: aqua;
+}
+.txt__link:hover {
+  color: Green;
+}
+
+.txt__link-style {
+  text-decoration: none;
+  color: green;
+  margin-left: 100px;
+}
+
+.txt__link-style:hover {
+  color: greenyellow;
+  text-decoration: underline;
+}
+
+.link__button {
+  text-decoration: none;
+  background-color: navy;
+  color: white;
+  border: 2px solid green;
+  padding: 5px;
+  margin-left: 200px;
+}
+
+.link__button:hover {
+  background-color: green;
+}
+
+.link__button-style {
+  text-decoration: none;
+  color: white;
+  background-color: rgb(230, 30, 30);
+  border: 2px solid rgb(230, 30, 30);
+  padding: 55px;
+  margin-left: 350px;
+}
+
+.link__button-style:hover {
+  background-color: red;
+}
