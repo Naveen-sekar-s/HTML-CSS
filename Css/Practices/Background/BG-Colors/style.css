@@ -1,0 +1,16 @@
+body {
+  background-color: cyan;
+}
+
+h1 {
+  background-color: greenyellow;
+}
+
+div {
+  background-color: black;
+  color: white;
+}
+
+div p {
+  background-color: blue;
+}

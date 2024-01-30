@@ -1,0 +1,21 @@
+.individual {
+  border: 5px solid red;
+  background-color: black;
+  padding: 5px;
+  color: white;
+
+  margin-top: 25%;
+  margin-right: 25%;
+  margin-left: 25%;
+  margin-bottom: 25%;
+}
+
+.short-hand {
+  border: 5px solid red;
+  background-color: black;
+  padding: 5px;
+  color: white;
+  
+  /* short-hand */
+  margin: 25%;
+}

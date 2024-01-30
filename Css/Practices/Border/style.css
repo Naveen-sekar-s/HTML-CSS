@@ -1,0 +1,54 @@
+body {
+  background-color: rgb(216, 211, 211);
+}
+
+/* adding width */
+.Dotted {
+  border-style: dotted;
+  border-width: 5px 2px;
+}
+.Dashed {
+  border-style: dashed;
+  border-width: medium 55px;
+}
+
+/* adding_colors */
+.Solid {
+  border-style: solid;
+  border-width: 10px 75px;
+  border-color: white black grey black;
+}
+
+/* adding styles */
+.Double {
+  border-style: double solid dotted outset;
+}
+
+/* short-hand */
+.Groove {
+  border: 5px groove yellow;
+}
+
+/* left_style */
+.Ridge {
+  border-left: 6px ridge red;
+}
+
+/* bottom_style */
+.Inset {
+  border-bottom: 5px inset red;
+}
+
+/* adding radius */
+.Outset {
+  border: 5px outset blue;
+  border-radius: 10%;
+}
+
+.None {
+  border-style: none;
+}
+
+.Hidden {
+  border-style: hidden;
+}
