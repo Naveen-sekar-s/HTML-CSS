@@ -1,0 +1,19 @@
+div {
+  position: relative;
+  border: 2px solid black;
+  display: inline-block;
+  height: 50vh;
+  width: 50vw;
+  background-color: red;
+  color: white;
+  margin: 50px 0 0 50px
+}
+
+div p {
+  position: absolute;
+  padding: 5px;
+  border: 1px solid yellow;
+  right: 100px;
+  background-color: black;
+ 
+}

@@ -1,0 +1,13 @@
+div {
+  border: 2px solid red;
+  background-color: black;
+  color: white;
+}
+img {
+  float: right;
+}
+div::after {
+  content: "";
+  clear: both;
+  display: table;
+}

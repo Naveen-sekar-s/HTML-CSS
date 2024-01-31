@@ -1,0 +1,14 @@
+h1{
+    margin:0 0 250vh 0;
+    background-color:palevioletred;
+    color:white;
+    padding: 5px;
+}
+div p {
+    position: fixed;
+    bottom: 0%;
+    right:0%;
+    background-color: black;
+    color: white;
+    padding:15px;
+}

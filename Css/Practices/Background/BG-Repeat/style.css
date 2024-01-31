@@ -28,9 +28,11 @@ div.BG__img-x {
 }
 
 div.y__axis {
+  float: right;
   background-color: black;
   color: white;
   padding: 1.5rem;
-  margin-left: 300px;
-  display: inline-block;
+  position: relative;
+  top: 300px;
+  right: 550px;
 }
