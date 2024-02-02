@@ -1,0 +1,42 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+  background-color: black;
+  overflow: auto;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  padding: 30px;
+  display: block;
+  text-decoration: none;
+  color: white;
+}
+
+li a:hover {
+  background-color: bisque;
+  color: white;
+}
+
+.drop-content {
+  display: none;
+  position: absolute;
+  width: 200px;
+  background-color: black;
+}
+
+.dropdown:hover .drop-content {
+  display: block;
+}
+
+.drop-content a:hover {
+  background-color: aquamarine;
+}
