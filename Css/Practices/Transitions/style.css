@@ -1,0 +1,30 @@
+div {
+  background-color: yellow;
+  border: 2px solid red;
+  width: 100px;
+  height: 100px;
+  transition: width 2s, height 1s;
+}
+
+div:hover {
+  width: 300px;
+}
+
+.ease {
+  transition-timing-function: ease;
+}
+.ease-in {
+  transition-timing-function: ease-in;
+}
+.ease-out {
+  transition-timing-function: ease-out;
+}
+.ease-in-out {
+  transition-timing-function: ease-in-out;
+}
+.linear {
+  transition-timing-function: linear;
+}
+.cubic {
+  transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
