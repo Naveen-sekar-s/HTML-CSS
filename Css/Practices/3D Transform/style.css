@@ -1,0 +1,18 @@
+div {
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+  border: 2px solid red;
+}
+
+.X-axis {
+  transform: rotateX(70deg);
+}
+
+.Y-axis {
+  transform: rotateY(70deg);
+}
+
+.Z-axis {
+  transform: rotateZ(50deg);
+}
