@@ -1,0 +1,24 @@
+div {
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+  border: 2px solid red;
+}
+
+.translate {
+  transform: translate(600px, 0px);
+}
+
+.rotate {
+  transform: rotate(20deg);
+}
+
+.scale {
+  margin: 0 0 0 50px;
+  transform: scale(1.5, 1.5);
+}
+
+.skew {
+  margin: 0 0 0 50px;
+  transform: skew(20deg, 10deg);
+}
