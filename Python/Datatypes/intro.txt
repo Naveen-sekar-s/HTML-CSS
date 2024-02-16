@@ -1,0 +1,13 @@
+Python datatypes ?
+
+--- 14 Datatypes are there in python.  
+
+--- Python data types are mutable and immutable.
+
+--- Mutable types are [list,set,dict,bytearray]
+
+--- Immutable types are [int,float,string,bool,complex,tuple,byte,range,frozenset,none]
+
+All the Datatypes..
+
+[int , float , string , boolean , complex , list , tuple , set , dict,bytes , bytearray , range , frozenset , none]

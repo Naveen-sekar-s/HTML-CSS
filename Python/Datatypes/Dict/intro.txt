@@ -1,0 +1,33 @@
+--- Group of key : value pair as one entity
+	
+	d1={
+        'ids':133,
+        'name':"Mandela",
+        'sal':75000,
+        'loc':["heaven"]
+        }
+
+--- While duplicate keys are not allowed
+
+    d1={
+        'ids':133,
+        'ids':134,
+        }
+
+--- While duplicate values are allowed
+
+    d1={
+        'ids':133,
+        'empid':133,
+        }
+
+--- Allowed heterogeneous elements (dis-similar(allow all data types))
+
+	d1={
+        'ids':133,
+        'name':"Mandela",
+        'sal':75000,
+        'loc':["heaven"]
+        }
+
+--- indexing concept not applicable

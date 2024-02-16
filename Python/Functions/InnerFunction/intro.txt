@@ -1,0 +1,7 @@
+--- function contains another function inside is the inner function
+
+--- We not call the inner function outside 
+
+--- when we call the inner function outside we return the inner function by reference
+
+--- most cases we use the inner function based on the projects

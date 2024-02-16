@@ -1,0 +1,24 @@
+
+What is Identifiers ?
+
+--- 35 Identifiers are there in python.
+
+--- It is name of the Python codes.
+
+--- The name we give to identify a variable,functions,classes,modules or other object.
+
+All the Identifiers..
+
+['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+
+
+
+Identifiers Rules ?
+
+--- Contains a to z , A to Z , 0 to 9.
+
+--- This not start with 0 to 9.
+
+--- This not contains any special character / symbol.   
+
+--- This is Case Sensitive.

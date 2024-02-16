@@ -1,0 +1,15 @@
+--- Group of element as one entity
+	
+	a={10,20,30,40,50}
+
+--- While duplicate elements are not allowed
+
+	b={10,10,20,30,40,50}
+
+--- Allowed heterogeneous elements (dis-similar(allowed all data types))
+
+	c={10,10.4,"30",true}
+
+--- indexing and slicing is not applicable
+
+--- insertion order or not presented.

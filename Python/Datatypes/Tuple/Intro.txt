@@ -1,0 +1,23 @@
+--- Group of element as one entity
+	
+	a=(10,20,30,40,50)
+
+--- While duplicate elements are allowed
+
+	b=(10,10,20,30,40,50)
+
+--- Allowed heterogeneous elements (dis-similar(allowed all data types))
+
+	c=(10,10.4,"30",true)
+
+--- Tuble elements stored based on indexing (memory location)
+
+--- Indexing starts from 0 to n-1
+
+--- (-ve) indexing are possible
+
+--- insertion order or presented
+
+--- It is used to read list only
+
+--- This only have create & read operations , we can't modify.

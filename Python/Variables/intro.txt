@@ -1,0 +1,7 @@
+--- Variables have 2 types ;
+        (i) Global scope Variables
+        (ii) Local scope Variables
+
+How to make a local Variable to Global Variable
+
+--- using a global keyword to make a local var to global

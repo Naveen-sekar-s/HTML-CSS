@@ -1,0 +1,180 @@
+What is Python ?
+ 
+--- Python is a  High Level General Purpose Programing Language.
+
+--- It supports multiple programming paradigms,including structured,oops and functional programming.
+
+
+
+How to execute the codes ?
+
+--- Open a command line prompt window and type py or python or pip command to execute the code.
+
+
+
+How intereptor works?
+
+--- High level human readable code to low level machine readable codes (Binary 0,1).
+
+--- Using of python software.
+
+
+
+Commands ?
+
+--- Python commands are used for user friendly interface.
+
+--- # This is a single line command.
+
+--- '''This is a multi-line command'''
+
+
+
+What is Identifiers ?
+
+--- 35 Identifiers are there in python.
+
+--- It is name of the Python codes.
+
+--- The name we give to identify a variable,functions,classes,modules or other object.
+
+All the Identifiers..
+
+['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+
+
+
+Identifiers Rules ?
+
+--- Contains a to z , A to Z , 0 to 9.
+
+--- This not start with 0 to 9.
+
+--- This not contains any special character / symbol.   
+
+--- This is Case Sensitive.
+
+
+
+Python datatypes ?
+
+--- 14 Datatypes are there in python.  
+
+--- Python data types are mutable and immutable.
+
+--- Mutable types are [list,set,dict,bytearray]
+
+--- Immutable types are [int,float,string,bool,complex,tuple,byte,range,frozenset,none]
+
+All the Datatypes..
+
+[int , float , string , boolean , complex , list , tuple , set , dict,bytes , bytearray , range , frozenset , none]
+
+
+
+//Python Built-in functions
+
+abs()	
+all()	
+any()	
+ascii()	
+bin()	
+bool()	
+bytearray()	
+bytes()	
+callable()	
+chr()	
+classmethod()	
+compile()	
+complex()	
+delattr()	
+dict()
+dir()
+divmod()
+enumerate()
+eval()	
+exec()	
+filter()
+float()
+format()
+frozenset()
+getattr()
+globals()
+hasattr()
+hash()	
+help()
+hex()
+id()
+input()
+int()	
+isinstance()	
+issubclass()	
+iter()
+len()	
+list()	
+locals()	
+map()	
+max()	
+memoryview()	
+min()	
+next()
+object()	
+oct()
+open()	
+ord()
+pow()
+print()
+property()	
+range()	
+repr()	
+reversed()	
+round()
+set()	
+setattr()
+slice()
+sorted()
+staticmethod()	
+str()	
+sum()	
+super()
+tuple()
+type()
+vars()	
+zip()	
+
+
+what is int in datatypes ?
+
+Binary - 0,1
+
+Decimal - 0-9
+
+Octal (8) - 0-7
+
+Hexadecimal (16) - 0 - 9 , a - z , A - Z
+
+
+What is list ?
+
+--- Group of elemnts as one entity.
+
+--- Duplicate elements are allowed.
+
+--- Heterogeneous elements are allowed.It is allowed all types of datatypes in its. int=[101,101,102,103.5,'str']
+
+--- Elements are storing based on indexing.  
+          -4   -3  -2  -1
+          101,102,103,104
+           0   1   2   3
+
+--- (-)Negative indexing possible.
+
+--- insertion order based on indexing.
+
+
+
+
+
+
+
+

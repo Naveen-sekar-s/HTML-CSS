@@ -1,0 +1,23 @@
+ --- Group of statement for a specific purpose
+
+ --- Function are two types there are,
+        (i)Built-in function 
+        (ii)user-defined function
+
+ --- Execute buisness logic , return value.
+
+ --- Functions arguments are 2 types
+              (i) Formal arguments
+              (ii) Actual arguments 
+
+--- (ii)Actual arguments are 4 types there are :
+              (i) Positional arguments
+              (ii) Named arguments
+              (iii) Defualt arguments
+              (iv) Variable , Length arguments
+
+--- Lambda function --> Anonymous function
+       This function have ;
+              No function name,
+              No Def keyword,
+              No return keyword.
