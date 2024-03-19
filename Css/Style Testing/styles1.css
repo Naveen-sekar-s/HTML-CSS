@@ -1,0 +1,17 @@
+.img-logo {
+  float: left;
+  width: 200px;
+  height: 200px;
+}
+
+section {
+  background-color: white;
+  color: orange;
+  display: flow-root;
+  padding: 25px;
+  text-align: center;
+}
+
+p {
+  margin-top: 70px;
+}
