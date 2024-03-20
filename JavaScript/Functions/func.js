@@ -1,5 +1,5 @@
 function adding(a, b) {
-  console.log(a + b);
-  return;
+  return a + b;
 }
-adding(10, 20);
+let add = adding(10, 20);
+console.log(add);

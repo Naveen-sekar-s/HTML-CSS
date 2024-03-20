@@ -1,3 +1,4 @@
+//if the condition is true if block is executed otherwise else block is executed
 let Enter_amount = 400;
 let balance = 4000;
 if (balance >= Enter_amount) {
@@ -7,4 +8,3 @@ if (balance >= Enter_amount) {
 } else {
   console.log("Inusufficient Balance");
 }
-
